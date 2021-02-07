@@ -1,0 +1,5 @@
+mpu6050.c:10:9:init_mpu	48	static
+mpu6050.c:48:6:get_acc_data	48	static
+mpu6050.c:59:6:get_gyro_data	48	static
+mpu6050.c:69:6:save_act_position	16	static
+mpu6050.c:76:6:check_position	56	static
